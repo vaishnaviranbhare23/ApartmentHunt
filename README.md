@@ -6,7 +6,7 @@ The internet has completely impacted our daily life to a great extent. Technolog
 
 ## Contributors
 
-##### Maitreyi Joshi
-##### Vaishnavi Ranbhare
-##### Apoorva Durge
-##### Prerna Saste
+* Maitreyi Joshi
+* Vaishnavi Ranbhare
+* Apoorva Durge
+* Prerna Saste
